@@ -1,0 +1,4 @@
+name: dadBot
+version: '1.0'
+main: sey.development.dadBot.DadBot
+api-version: '1.21'
